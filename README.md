@@ -9,6 +9,8 @@
 </p>
 
 # Votereum: An Ethereum-based E-voting system
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjackmercy%2FVotereum-AS.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjackmercy%2FVotereum-AS?ref=badge_shield)
+
 
   Blockchain, which is the underlying technology of the first cryptocurrency Bitcoin, has drawn a lot of global attention in recent years. Its notable characteristics of distributed ledger, trustless system and immutability not only makes it a disruptive innovation in the electronic payment industry but also potential solutions for other areas that required trust establishment. An electronic voting (E-voting) scheme is a use-case where all attributes of blockchain can offer a mechanism for an open, fair and universal verifiable electoral process. We propose Votereum, an E-voting system that utilizes the blockchain technology. The proposed system is empowered by Ethereum platform, including one server manages the entire system and the other handles all blockchain-related requests. The implementation is also deployed to Rinkeby testing network for evaluation on the feasibility.
 
@@ -83,3 +85,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjackmercy%2FVotereum-AS.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjackmercy%2FVotereum-AS?ref=badge_large)
